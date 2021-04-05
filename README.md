@@ -1,2 +1,2 @@
-# TestGitSamsung
+# TestGit
 for testing
